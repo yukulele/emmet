@@ -720,6 +720,7 @@
 			"style": "<style>",
 			"script": "<script !src=\"\">",
 			"script:src": "<script src=\"\">",
+			"script:module": "<script type=\"module\" !src=\"\">",
 			"img": "<img src=\"\" alt=\"\" />",
 			"img:s|img:srcset": "<img srcset=\"\" src=\"\" alt=\"\" />",
 			"img:z|img:sizes": "<img sizes=\"\" srcset=\"\" src=\"\" alt=\"\" />",
